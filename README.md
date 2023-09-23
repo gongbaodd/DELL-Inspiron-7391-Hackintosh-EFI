@@ -11,7 +11,13 @@
 | Wifi             | AX201         |
 | NVMe             | WD 512 GB                   
 | SmBios           | MacBook Pro 13 16,3          |     
-| BootLoader       | OpenCore 0.9.5
+| BootLoader       | OpenCore 0.9.5 |
+
+### Screenshots
+
+![laptop](./Screenshot/laptop.jpg)
+
+![screen](./Screenshot/info.png)
 
 
 - [x] Intel Graphics UHD iGPU 
@@ -48,15 +54,6 @@
 
 
 
-## Peripherals & TouchPad Setting 
-
-![infodp1](./Screenshot/DPCI1.png)
-![infodp2](./Screenshot/DPCI2.png)
-![touchpad1](./Screenshot/TRACK1.png)
-![touchpad2](./Screenshot/TRACK2.png)
-![touchpad3](./Screenshot/TRACK3.png)
-
-
 ### Special Config:
 
 - Usb port mapping performed
@@ -82,8 +79,6 @@
 * Sign Of Life : Early Logo Display / Early keyboard backlight
 
 
-
-
 ## Credits
 
 - [Apple](https://apple.com) for macOS;
@@ -91,5 +86,7 @@
 - [Dortania](https://github.com/dortania) For their detailed guides.
 - [Vins95](https://github.com/Vins95)
 - [Hackintoshlifeit](https://github.com/Hackintoshlifeit)
-- [Lorys89](https://github.com/Lorys89/) for making this hack perfect. 
+- [Lorys89](https://github.com/Lorys89/) for making this hack perfect.
+- [daliansky](https://github.com/daliansky)
+- [gongbaodd](https://github.com/gongbaodd)
 # If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) 

@@ -537,7 +537,7 @@
                     <key>BundlePath</key>
                     <string>itlwm.kext</string>
                     <key>Comment</key>
-                    <string>V2.2.0</string>
+                    <string>V2.3.0</string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
@@ -555,7 +555,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm.kext</string>
                     <key>Comment</key>
-                    <string>V2.2.0</string>
+                    <string>V2.3.0</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -719,9 +719,27 @@
                     <key>Comment</key>
                     <string>V2.3.0</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/IntelBluetoothFirmware</string>
+                    <key>MaxKernel</key>
+                    <string></string>
+                    <key>MinKernel</key>
+                    <string></string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>Any</string>
+                    <key>BundlePath</key>
+                    <string>IntelBTPatcher.kext</string>
+                    <key>Comment</key>
+                    <string>V1</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>ExecutablePath</key>
+                    <string>Contents/MacOS/IntelBTPatcher</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
@@ -1018,7 +1036,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>keepsyms=1 debug=0x100 alcid=1 -igfxblr -noDC9</string>
+                    <string>keepsyms=1 debug=0x100 -igfxblr -noDC9</string>
                     <key>csr-active-config</key>
                     <data>AAAAAA==</data>
                     <key>prev-lang:kbd</key>
@@ -1108,22 +1126,22 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro16,2</string>
                 <key>SystemSerialNumber</key>
-                <string></string>
+                <string>C02C93ZXML7H</string>
                 <key>SystemUUID</key>
-                <string></string>
+                <string>33940081-CC69-46E3-B050-8ADBB49EC1F9</string>
             </dict>
             <key>Generic</key>
             <dict>
                 <key>AdviseFeatures</key>
                 <true/>
                 <key>MLB</key>
-                <string></string>
+                <string>C020083034NP8PGJC</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data></data>
+                <data>/bkk3t1A</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1131,9 +1149,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookPro16,2</string>
                 <key>SystemSerialNumber</key>
-                <string></string>
+                <string>C02C93ZXML7H</string>
                 <key>SystemUUID</key>
-                <string></string>
+                <string>33940081-CC69-46E3-B050-8ADBB49EC1F9</string>
             </dict>
             <key>PlatformNVRAM</key>
             <dict>
@@ -1144,13 +1162,13 @@
                 <key>FirmwareFeaturesMask</key>
                 <data></data>
                 <key>MLB</key>
-                <string></string>
+                <string>C020083034NP8PGJC</string>
                 <key>ROM</key>
-                <data></data>
+                <data>/bkk3t1A</data>
                 <key>SystemSerialNumber</key>
-                <string></string>
+                <string>C02C93ZXML7H</string>
                 <key>SystemUUID</key>
-                <string></string>
+                <string>33940081-CC69-46E3-B050-8ADBB49EC1F9</string>
             </dict>
             <key>SMBIOS</key>
             <dict>
@@ -1203,9 +1221,9 @@
                 <key>SystemSKUNumber</key>
                 <string></string>
                 <key>SystemSerialNumber</key>
-                <string></string>
+                <string>C02C93ZXML7H</string>
                 <key>SystemUUID</key>
-                <string></string>
+                <string>33940081-CC69-46E3-B050-8ADBB49EC1F9</string>
                 <key>SystemVersion</key>
                 <string></string>
             </dict>
