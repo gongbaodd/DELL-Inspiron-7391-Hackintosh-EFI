@@ -14,10 +14,10 @@
 | iGPU             | Intel® UHD Graphics 620         |    
 | Audio            | Realtek ALC295             |
 | Ram              | 16 Gb ddr4 2133 Mhz     |            |
-| Wifi             | DW1560         |
+| Wifi             | AX201         |
 | NVMe             | WD 512 GB                   
 | SmBios           | MacBook Pro 13 16,3          |     
-| BootLoader       | OpenCore 0.7.1                    
+| BootLoader       | OpenCore 0.9.5
 
 
 ![infomac](./Screenshot/infomac.png)
